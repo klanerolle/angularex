@@ -1,0 +1,32 @@
+{
+  "posts": [
+      {
+        "userId": "UID8000",
+        "name": "Avery Miller",
+        "role": "Admin",
+        "status": "Active",
+      },
+      
+      {
+        "userId": "UID8002",
+        "name": "Riley Johnson",
+        "role": "Admin",
+        "status": "Inactive",
+      },
+      
+      {
+        "userId": "UID8003",
+        "name": "Harper Smith",
+        "role": "Manager",
+        "status": "Active",
+      },
+      
+      {
+        "userId": "UID8004",
+        "name": "Finn Williams",
+        "role": "Sales Admin",
+        "status": "Active",
+      },
+  
+    ]
+}
