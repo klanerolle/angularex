@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "user": [
       {
         "userId": "UID8000",
         "name": "Avery Miller",
@@ -27,6 +27,5 @@
         "role": "Sales Admin",
         "status": "Active",
       },
-  
     ]
 }
